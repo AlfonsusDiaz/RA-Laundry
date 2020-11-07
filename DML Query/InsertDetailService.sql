@@ -1,0 +1,102 @@
+USE RALaundry
+
+INSERT INTO DetailService
+VALUES ( 'SR001' , 'CL001' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR001' , 'CL002' , 3000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR002' , 'CL002' , 3000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR003' , 'CL002' , 3000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR004' , 'CL003' , 8000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR005' , 'CL003' , 8000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR005' , 'CL004' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR006' , 'CL001' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR006' , 'CL002' , 3000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR007' , 'CL005' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR007' , 'CL006' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR008' , 'CL001' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR008' , 'CL003' , 8000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR009' , 'CL009' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR010' , 'CL010' , 10000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR010' , 'CL009' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR011' , 'CL015' , 15000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR012' , 'CL015' , 15000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR012' , 'CL014' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR013' , 'CL001' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR013' , 'CL015' , 15000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR014' , 'CL004' , 4000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR014' , 'CL005' , 6000 )
+
+
+INSERT INTO DetailService
+VALUES ( 'SR015' , 'CL006' , 4000 )
+
+INSERT INTO DetailService
+VALUES ( 'SR016' , 'CL001' , 6000 )
+
+INSERT INTO DetailService
+VALUES ( 'SR016' , 'CL006' , 4000 )
